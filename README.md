@@ -39,6 +39,11 @@
 
 ## **语义化提交**
 
+### **文章参考**
+
+- ![Git Commit规范](https://zhuanlan.zhihu.com/p/268051722)
+- ![Alibaba Git Commit规范](https://zhuanlan.zhihu.com/p/182553920)
+
 ### **语义化前缀**
 
 - 如果是添加新功能，使用 feat。
